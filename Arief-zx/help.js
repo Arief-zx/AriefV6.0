@@ -1,5 +1,6 @@
 const help = (prefix, instagram, name, pushname2, user, limitt, uptime, jam, tanggal) => { 
-	return `╭──────「 *Regulation ${name}* 」
+	return `
+╭──────「 *Regulation ${name}* 」
 ┴
 │  \`\`\`NAMA USER:\`\`\` *${pushname2}*
 │  \`\`\`VERIVICATION:\`\`\` ✅
