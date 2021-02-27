@@ -16,7 +16,7 @@ Follow The Steps Below!
 > pkg upgrade -y
 > pkg install git -y
 > git clone https://github.com/Arief-zx/AriefV6.0
-> cd termux-bot-wa
+> cd Arief6.0
 > npm cache clear
 > bash install.sh
 > npm audit fix
