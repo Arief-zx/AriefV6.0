@@ -15,7 +15,7 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/Fxc7/termux-bot-wa
+> git clone https://github.com/Arief-zx/AriefV6.0
 > cd termux-bot-wa
 > npm cache clear
 > bash install.sh
